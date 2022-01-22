@@ -7,11 +7,11 @@ Ini adalah Userbot berdasarkan WhatsAsena
 **WhatsAsena,** adalah bot WhatsApp. Tidak masuk ke akun Anda Itu tertulis di WhatsApp Web API.
 ## Setup
 
-1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) or [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ASENA_SESSION).
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) or [SCAN](https://early-pie-production.up.railway.app/qr) dan pindai QR melalui Opsi Perangkat Tertaut Whatsapp di Aplikasi whatsapp Anda.
+2. Anda akan mendapatkan teks panjang yang dibutuhkan setelah langkah ke-4 (ASENA_SESSION).
+3. Jika Anda tidak memiliki akun di [Heroku](https://signup.heroku.com/), Buat akun.
 4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot copy this url and change lyfe00011 with your github username and click GO<br>
+5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot salin url ini dan ubah lyfe00011 dengan nama pengguna github Anda dan klik GO<br>
    <br>
 
 <!--
